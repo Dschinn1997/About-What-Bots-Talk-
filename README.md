@@ -35,10 +35,11 @@ This repository contains the code for one of my third semester master's term pap
 ## Installation
 To run the code in this repository, you'll need to have Python installed. Clone this repository and install the required packages using:
 
-```bash
 git clone [repository-link]
 cd [repository-name]
 pip install -r requirements.txt
+
+
 
 For any questions or further information, please contact:
 
