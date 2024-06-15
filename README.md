@@ -39,8 +39,7 @@ git clone [repository-link]
 cd [repository-name]
 pip install -r requirements.txt
 
-
-
+## Contact
 For any questions or further information, please contact:
 
 Gina-Maria Angelina Unger - gina-unger@gmx.de
