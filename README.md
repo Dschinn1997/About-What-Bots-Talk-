@@ -27,6 +27,7 @@ This repository contains the code for one of my third semester master's term pap
 ## Repository Contents
 - `project`: Jupyter notebook that contains the data collection, preprocessing, and analysis.
 - `requirements`: List of Python packages required to run the project.
+- `paper`: PDF of final term paper.
 
 - **Note:** We cannot provide the raw data used in this project as it belongs to the ‘TwitBot-20’ dataset (Feng et al., 2020) of which we are not owners. Processed datasets are also not included due to these restrictions.
 -  Original Dataset: Feng, S., Wan, H., Wang, N., Li, J., & Luo, M. (2021). TwiBot-20: A comprehensive Twitter bot detection benchmark. In G. Demartini, G. Zuccon, J. S. Culpepper, Z. Huang, & H. Tong (Eds.), Proceedings of the 30th ACM International Conference on Information & Knowledge Management (pp. 4485–4494). ACM. https://doi.org/10.1145/3459637.3482019
