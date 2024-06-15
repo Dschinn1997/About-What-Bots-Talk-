@@ -1,0 +1,16 @@
+#pandas==1.4.3
+geopy==2.2.0
+numpy==1.20.3
+nltk==3.6.5
+regex==2021.8.3                  
+gensim==3.8.3
+tweet-preprocessor==0.6.0
+langdetect==1.0.9
+scikit-learn==0.24.2
+sentence_transformers==2.2.2
+umap-learn==0.5.3
+hdbscan==0.8.28
+wordcloud==1.8.1
+pillow==8.4.0 
+flair==0.11.3
+seaborn==0.11.2
