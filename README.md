@@ -1,7 +1,7 @@
 # Bots on Twitter: An Exploratory Analysis Approach on The Content they Share
 
 ## Project Overview
-This repository contains the code for one of my third semester master's term papers for the course "Web & Society: A Computational Social Science Perspective". For the term paper we investigated the role of bots on social media given the widespread concern about an "malicious social bot pandemic". Thereby, we focused on analyzing the topics bots discuss, the sentiments they convey, and if we find indications for malicious intentions.
+This repository contains the code for one of my second semester master's term papers for the course "Web & Society: A Computational Social Science Perspective". For the term paper we investigated the role of bots on social media given the widespread concern about an "malicious social bot pandemic". Thereby, we focused on analyzing the topics bots discuss, the sentiments they convey, and if we find indications for malicious intentions.
 
 ## Objectives
 - Identify the main topics discussed by social media bots and valid users.
@@ -25,9 +25,9 @@ This repository contains the code for one of my third semester master's term pap
 - Data Visualisation
 
 ## Repository Contents
-- `project`: Jupyter notebook that contains the data collection, preprocessing, and analysis.
+- `code`: Jupyter notebook that contains the the whole project's code including the data collection, preprocessing, and analysis.
 - `requirements`: List of Python packages required to run the project.
-- `paper`: PDF of final term paper.
+- `term paper`: PDF of final term paper.
 
 - **Note:** We cannot provide the raw data used in this project as it belongs to the ‘TwitBot-20’ dataset (Feng et al., 2020) of which we are not owners. Processed datasets are also not included due to these restrictions.
 -  Original Dataset: Feng, S., Wan, H., Wang, N., Li, J., & Luo, M. (2021). TwiBot-20: A comprehensive Twitter bot detection benchmark. In G. Demartini, G. Zuccon, J. S. Culpepper, Z. Huang, & H. Tong (Eds.), Proceedings of the 30th ACM International Conference on Information & Knowledge Management (pp. 4485–4494). ACM. https://doi.org/10.1145/3459637.3482019
