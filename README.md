@@ -25,7 +25,7 @@ This repository contains the code for one of my second semester master's term pa
 - Data Visualisation
 
 ## Repository Contents
-- `code`: Jupyter notebook that contains the the whole project's code including the data collection, preprocessing, and analysis.
+- `script`: Jupyter notebook that contains the the whole project's code including the data collection, preprocessing, and analysis.
 - `requirements`: List of Python packages required to run the project.
 - `term paper`: PDF of final term paper.
 
