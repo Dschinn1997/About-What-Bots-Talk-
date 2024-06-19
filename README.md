@@ -1,7 +1,7 @@
 # Bots on Twitter: An Exploratory Analysis Approach on The Content they Share
 
 ## Project Overview
-This repository contains the code for one of my second semester Master's term papers for the course "Web & Society: A Computational Social Science Perspective". For the term paper, Trinidad Bosch Achondo and I investigated the role of bots on social media in light of widespread concerns about a "malicious social bot pandemic". We focused on analysing the topics that bots discuss, the sentiments that they convey, and whether we can find evidence of malicious intent.
+This repository contains the code for one of my second semester master's term papers for the course "Web & Society: A Computational Social Science Perspective". For the term paper, Trinidad Bosch Achondo and I investigated the role of bots on social media in light of widespread concerns about a "malicious social bot pandemic". We focused on analysing the topics that bots discuss, the sentiments that they convey, and whether we can find evidence of malicious intent.
 
 ## Objectives
 - Identify the main topics discussed by social media bots and valid users.
