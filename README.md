@@ -1,17 +1,17 @@
 # Bots on Twitter: An Exploratory Analysis Approach on The Content they Share
 
 ## Project Overview
-This repository contains the code for one of my master's second semester term papers for the course "Web & Society: A Computational Social Science Perspective". For the term paper we, Trinidad Bosch Achondo and I, investigated the role of bots on social media given the widespread concern about an "malicious social bot pandemic". Thereby, we focused on analyzing the topics bots discuss, the sentiments they convey, and if we find indications for malicious intentions.
+This repository contains the code for one of my second semester Master's term papers for the course "Web & Society: A Computational Social Science Perspective". For the term paper, Trinidad Bosch Achondo and I investigated the role of bots on social media in light of widespread concerns about a "malicious social bot pandemic". We focused on analysing the topics that bots discuss, the sentiments that they convey, and whether we can find evidence of malicious intent.
 
 ## Objectives
 - Identify the main topics discussed by social media bots and valid users.
-- Analyze the sentiment (positive, negative, neutral) associated with these topics.
-- Evaluate whether the bots' interactions suggest any malicious intent.
+- Analyse the sentiment (positive, negative, neutral) associated with these topics.
+- Evaluate whether the bots' interactions are indicative of malicious intent.
 
-## Key Findings
-- Bots primarily discuss current and trending topics similar to those of valid users.
-- Bots do not connotate topics universily with one sentiment, how they connotate a topic primarily depends on the areas studied. E.g. the topic “stock markets” has a quite neutral sentiment.
-- No overarching malicious intentions were found, though this can vary by topic.
+## Key findings
+- Bots primarily discuss current and trending topics, similar to valid users.
+- Bots do not universally associate topics with a sentiment, the way they associate a topic depends primarily on the areas they are exploring. For example, the topic 'stock markets' has a fairly neutral sentiment.
+- No overarching malicious intent was found, although this can vary from topic to topic.
 
 ## Technologies and Tools
 - Web Scraping
